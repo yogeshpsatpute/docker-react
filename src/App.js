@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Virtuoso ::: YS ::: Learn React
+          Virtuoso ::: YS ::: PN ::: Learn React
         </a>
       </header>
     </div>
